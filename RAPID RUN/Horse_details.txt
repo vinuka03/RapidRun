@@ -1,0 +1,12 @@
+Group A:
+Horse ID : 1, Name : horseA, Age : 12, Breed : Arabic, Jockey Name : John, Races Participated : 4, Races Won : 1,Image Path : javafx.scene.image.Image@2ede326
+
+Group B:
+Horse ID : 2, Name : spark, Age : 11, Breed : mustang, Jockey Name : Elton, Races Participated : 5, Races Won : 3,Image Path : javafx.scene.image.Image@64f2da09
+
+Group C:
+Horse ID : 3, Name : Roxy, Age : 9, Breed : Arabic, Jockey Name : James, Races Participated : 10, Races Won : 8,Image Path : javafx.scene.image.Image@4a130b50
+
+Group D:
+Horse ID : 4, Name : Shadow, Age : 11, Breed : Arabic, Jockey Name : Rose, Races Participated : 6, Races Won : 5,Image Path : javafx.scene.image.Image@1aa0f811
+
